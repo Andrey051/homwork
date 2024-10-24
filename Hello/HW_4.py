@@ -1,0 +1,15 @@
+shop = ['banana','peach','lemon']
+print(shop[0])
+shop[0] = 'aplle'
+print(shop)
+shop.append(1)
+print(shop)
+shop.extend('string')
+print(shop)
+shop.extend(['string', 2])
+print(shop)
+shop.remove('peach')
+print(shop)
+print('lemon' in shop)
+print('lemon' not in shop)
+print(shop[:2])

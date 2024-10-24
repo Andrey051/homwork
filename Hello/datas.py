@@ -1,0 +1,20 @@
+print(5)
+print(type(5 + 5))
+print(5 -5)
+print(5 * 5)
+print(5 // 5) # целое деление
+print(5 % 5)
+print(5 ** 5) # возведение в степень
+print(type(2.0))
+print(2.0 * 2.0)
+print(type('Hello, world!'))
+print('Hello,' + 'world!')
+print('1' + '1')
+print(5 < 10)
+print(5 > 10)
+print(5 == 5)
+print(5 != 5)
+print(10 > 5 and 5 == 5)
+print(10 > 5 or 10 < 5)
+print(type(int('5')))
+
